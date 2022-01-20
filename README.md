@@ -1,2 +1,3 @@
-# Fibonacci with Nasm
- printing first 21 Fibonacci numbers using C std library in NASM assembler
+## Fibonacci with Nasm
+ 
+ Printing first 21 Fibonacci numbers with NASM assembly (non-recursive algorithm)
